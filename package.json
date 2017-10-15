@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/poetries/anywhere#readme",
   "devDependencies": {
-    "chalk": "^2.1.0"
+    "chalk": "^2.1.0",
+    "handlebars": "^4.0.10",
+    "supervisor": "^0.12.0"
   }
 }
