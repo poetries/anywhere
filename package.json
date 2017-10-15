@@ -1,0 +1,26 @@
+{
+  "name": "anywhere",
+  "version": "1.0.0",
+  "description": "tiny static web server",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poetries/anywhere.git"
+  },
+  "keywords": [
+    "anywhere"
+  ],
+  "author": "poetries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poetries/anywhere/issues"
+  },
+  "homepage": "https://github.com/poetries/anywhere#readme",
+  "devDependencies": {
+    "chalk": "^2.1.0"
+  }
+}
