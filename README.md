@@ -1,5 +1,7 @@
 anywhere
 ---
+[![npm version](https://img.shields.io/npm/v/p_anywhere.svg)](https://www.npmjs.com/package/p_anywhere)
+
 Tiny nodejs static Web Server
 
 
