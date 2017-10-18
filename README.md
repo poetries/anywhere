@@ -21,5 +21,5 @@ using methods
 - `anywhere -p 8080`   set port
 - `anywhere -h localhost`  set hostname
 - `anywhere -d /usr`   set root dir as /usr
-
+- `anywhere --help`   Show help
 
